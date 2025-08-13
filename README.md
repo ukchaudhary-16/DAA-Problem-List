@@ -1,2 +1,22 @@
-# DAA-Problem-List
-This repo is a basically a collection of all the DAA related questions solved to enhance the DSA skills.
+# 📚 DAA Problem List
+
+A curated collection of **Design and Analysis of Algorithms (DAA)** problems, solved to strengthen **Data Structures and Algorithms (DSA)** skills.  
+This repository serves as a personal learning archive and a resource for anyone practicing DAA concepts.
+
+---
+
+## 🚀 Features
+- 📂 Well-organized solutions to DAA problems
+- 📝 Clear and concise code with explanations (where applicable)
+- 📈 Problems range from basic to advanced
+- 🔍 Covers topics like:
+  - Sorting & Searching
+  - Greedy Algorithms
+  - Divide and Conquer
+  - Dynamic Programming
+  - Graph Algorithms
+  - Backtracking
+
+---
+
+
