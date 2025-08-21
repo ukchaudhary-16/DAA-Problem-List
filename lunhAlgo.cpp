@@ -1,3 +1,4 @@
+
 /*
     Steps involved in the Luhn algorithm
     Step 1 - Starting from the rightmost digit, double the value of every second digit
@@ -56,4 +57,3 @@ int main(){
     }
 
 }
-// 79927398713
