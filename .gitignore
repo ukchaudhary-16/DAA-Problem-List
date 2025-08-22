@@ -1,0 +1,10 @@
+# C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+build/
+bin/
